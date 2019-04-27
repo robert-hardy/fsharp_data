@@ -1,3 +1,3 @@
-# F# starter
+# F# Data
 
-Basic collection of files to get started with.
+Putting together some benchmarks against Python Pandas.
